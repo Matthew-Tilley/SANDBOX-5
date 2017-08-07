@@ -89,5 +89,16 @@ p
 }
 
 
+@media (min-width: 400px)
+{
+	body
+	{
+		grid-template-areas: 			"block_4 block_6"
+										"block_2 block_1"
+										"block_3 block_5";
+	}
+}
+
+
 
 
