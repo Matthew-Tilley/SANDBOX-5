@@ -10,14 +10,26 @@ body
 	display:							grid;
 	grid-template-columns: 				repeat(2, 1fr);
 	grid-template-rows: 				repeat(3, 1fr);
-	
-	
+	grid-gap:							1rem;
 	grid-template-areas: 				"block_1"
 										"block_2";
-						
+	
+	height:								100vh;
+	padding:							1rem;
+
 		
 	
 }
+
+
+.a_block
+{
+	display:							flex;
+	justify-content: 					center;
+	align-items: 						center;
+	
+}
+
 
 #block_1
 {
@@ -59,6 +71,12 @@ body
 #block_6
 {
 	background-color:						purple;
+}
+
+p
+{
+	font-family:							impact;
+	font-size: 								5rem;
 }
 
 
