@@ -11,9 +11,9 @@ body
 	grid-template-columns: 				repeat(2, 1fr);
 	grid-template-rows: 				repeat(3, 1fr);
 	grid-gap:							1rem;
-	grid-template-areas: 				"block_1 block_4"
-										"block_2 block_5"
-										"block_3 block_6";
+	grid-template-areas: 				"block_3 block_5"
+										"block_6 block_2"
+										"block_1 block_4";
 	
 	height:								100vh;
 	padding:							1rem;
