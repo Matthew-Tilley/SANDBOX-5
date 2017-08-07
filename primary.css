@@ -8,8 +8,9 @@
 body
 {
 	display:							grid;
+	grid-template-columns: 				repeat(2, 1fr);
 	grid-template-rows: 				repeat(3, 1fr);
-	grid-row-gap: 						5vh;
+	
 	
 	grid-template-areas: 				"block_1"
 										"block_2";
@@ -40,6 +41,24 @@ body
 #block_3
 {
 	background-color:						blue;
+}
+
+
+#block_4
+{
+	background-color:						pink;
+}
+
+
+#block_5
+{
+	background-color:						orange;
+}
+
+
+#block_6
+{
+	background-color:						purple;
 }
 
 
