@@ -11,8 +11,9 @@ body
 	grid-template-columns: 				repeat(2, 1fr);
 	grid-template-rows: 				repeat(3, 1fr);
 	grid-gap:							1rem;
-	grid-template-areas: 				"block_1"
-										"block_2";
+	grid-template-areas: 				"block_1 block_4"
+										"block_2 block_5"
+										"block_3 block_6";
 	
 	height:								100vh;
 	padding:							1rem;
@@ -52,24 +53,32 @@ body
 
 #block_3
 {
+	grid-area: 								block_3;
+	
 	background-color:						blue;
 }
 
 
 #block_4
 {
+	grid-area:								block_4;
+	
 	background-color:						pink;
 }
 
 
 #block_5
 {
+	grid-area:								block_5;
+	
 	background-color:						orange;
 }
 
 
 #block_6
 {
+	grid-area:								block_6;
+	
 	background-color:						purple;
 }
 
