@@ -10,7 +10,10 @@
 	display:							grid;
 	/*grid-template-columns: 				repeat(3, 1fr);*/
 	grid-template-areas:				"BX01 BX02 BX03"
-										".... BX04 ....";
+										".... BX04 ...."
+										".... .... BX05"
+										"BX06 .... ...."
+										".... .... BX07";
 	
 	
 }
@@ -50,3 +53,24 @@
 
 }
 
+#BX05
+{
+	grid-area:							BX05;
+	
+
+}
+
+
+#BX06
+{
+	grid-area:							BX06;
+	
+
+}
+
+#BX07
+{
+	grid-area:							BX07;
+	
+	
+}
