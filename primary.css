@@ -11,7 +11,7 @@
 	/*grid-template-columns: 				repeat(3, 1fr);*/
 	grid-template-areas:				"BX01 BX02 BX03"
 										".... BX04 ...."
-										".... BX04 BX05"
+										".... .... BX05"
 										"BX06 BX06 ...."
 										".... BX07 BX07";
 	
@@ -34,6 +34,8 @@
 #BX01
 {
 	grid-area: 							BX01;
+	grid-row-start: 					1;
+	grid-row-end: 						4;
 }
 
 #BX02
@@ -49,7 +51,7 @@
 #BX04
 {
 	grid-area:							BX04;
-	grid-row:							span 2;
+	
 
 }
 
