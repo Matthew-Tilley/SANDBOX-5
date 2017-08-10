@@ -9,6 +9,7 @@
 {
 	display:							grid;
 	grid-template-columns: 				repeat(3, 1fr);
+					
 	
 	
 }
@@ -26,8 +27,25 @@
 	font-size:							5rem;
 }
 
+#BX01
+{
+	grid-area: 							BX01;
+}
+
+#BX02
+{
+	grid-area: 							BX02;
+}
+
+#BX03
+{
+	grid-area:							BX03;
+}
+
 #BX04
 {
+	grid-area:							BX04
+		
 	grid-column: 						span 3;
 }
 
