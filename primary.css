@@ -26,3 +26,8 @@
 	font-size:							5rem;
 }
 
+#BX04
+{
+	grid-column: 						span 2;
+}
+
