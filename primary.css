@@ -9,7 +9,7 @@
 {
 	display:							grid;
 	grid-template-columns: 				repeat(3, 1fr);
-					
+	/*grid-template-areas: 				BX01;*/
 	
 	
 }
@@ -45,7 +45,6 @@
 #BX04
 {
 	grid-area:							BX04
-		
-	grid-column: 						span 3;
+	
 }
 
