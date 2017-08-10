@@ -9,7 +9,8 @@
 {
 	display:							grid;
 	grid-template-columns: 				repeat(3, 1fr);
-	/*grid-template-areas: 				BX01;*/
+	grid-template-areas:				"BX01 BX02 BX03"
+										"BX04";
 	
 	
 }
@@ -29,12 +30,12 @@
 
 #BX01
 {
-	/*grid-area: 							BX01;*/
+	grid-area: 							BX01;
 }
 
 #BX02
 {
-	/*grid-area: 							BX02;*/
+	grid-area: 							BX02;
 }
 
 #BX03
@@ -44,7 +45,7 @@
 
 #BX04
 {
-	grid-area:							BX04
+	grid-area:							BX04;
 	
 }
 
