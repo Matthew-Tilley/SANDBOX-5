@@ -99,6 +99,10 @@
 {
 	#WRA01
 	{
-		display: 	none;
+		grid-template-areas: 					"BX02 BX02 BX03"
+												"BX01 BX04 BX04"
+												"BX06 .... BX05"
+												"BX06 .... BX05"
+												"BX07 BX07 BX07";
 	}
 }
