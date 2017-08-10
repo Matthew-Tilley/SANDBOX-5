@@ -76,7 +76,6 @@
 
 }
 
-
 #BX06
 {
 	grid-area:							BX06;
@@ -93,4 +92,13 @@
 	background-color:					pink;
 	
 	
+}
+
+
+@media (min-width: 750px)
+{
+	#WRA01
+	{
+		display: 	none;
+	}
 }
