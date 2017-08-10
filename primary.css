@@ -8,12 +8,15 @@
 #WRA01
 {
 	display:							grid;
-	grid-template-columns: 				repeat(3, 1fr);
+	
 }
-
 
 .BOX
 {
+	display:							flex;
+	justify-content: 					center;
+	align-items: 						center;
+	
 	border:								2px solid black;
 	
 	font-family:						impact;
