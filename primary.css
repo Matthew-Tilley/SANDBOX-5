@@ -9,6 +9,7 @@
 {
 	display:							grid;
 	/*grid-template-columns: 				repeat(3, 1fr);*/
+	grid-gap:							1rem;
 	grid-template-areas:				"BX01 BX02 BX03"
 										".... BX04 ...."
 										".... .... BX05"
