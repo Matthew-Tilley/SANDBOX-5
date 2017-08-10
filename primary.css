@@ -101,8 +101,30 @@
 	{
 		grid-template-areas: 					"BX02 BX02 BX03"
 												"BX01 BX04 BX04"
-												"BX06 .... BX05"
-												"BX06 .... BX05"
+												".... .... BX05"
+												"BX06 .... ...."
 												"BX07 BX07 BX07";
 	}
+	
+	#BX01
+	{
+		grid-row-start: 						2;
+		grid-row-end: 							3;
+	}
+	
+	#BX05
+	{
+		grid-row-start: 						4;
+		grid-row-end:							5;
+	}
+	
+	#BX06
+	{
+		grid-row-start: 						4;
+		grid-row-end: 							5;
+	
+		
+	}
+	
+	
 }
