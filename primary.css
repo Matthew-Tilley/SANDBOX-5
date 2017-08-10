@@ -8,9 +8,8 @@
 #WRA01
 {
 	display:							grid;
-	/*grid-template-columns: 				repeat(3, 1fr);*/
-	grid-template-areas:				"BX01 BX02 BX03"
-										"BX04";
+	grid-template-columns: 				repeat(3, 1fr);
+	grid-template-areas:				"BX01 BX02 BX03";
 	
 	
 }
@@ -46,6 +45,8 @@
 #BX04
 {
 	grid-area:							BX04;
+	
+	display: none;
 	
 }
 
