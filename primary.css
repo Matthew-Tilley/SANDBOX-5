@@ -46,7 +46,7 @@
 #BX02
 {
 	/*grid-area: 							BX02;*/
-	grid-column:							3/4;
+	grid-column:							3/5;
 	
 	background-color:					red;
 }
@@ -54,7 +54,7 @@
 #BX03
 {
 	/*grid-area:							BX03;*/
-	grid-column:							2/3;
+	grid-column:							2/5;
 	
 	background-color:					yellow;
 }
@@ -70,7 +70,7 @@
 #BX05
 {
 	/*grid-area:							BX05;*/
-	grid-column:							2/3;
+	grid-column:							2/5;
 	background-color:					aqua;
 	
 
@@ -79,7 +79,7 @@
 #BX06
 {
 	/*grid-area:							BX06;*/
-	grid-column:							2/4;
+	grid-column:							3/5;
 	
 	background-color:					mediumpurple;
 	
@@ -89,7 +89,7 @@
 #BX07
 {
 	/*grid-area:							BX07;*/
-	grid-column: 							3/5;
+	grid-column: 							4/5;
 	
 	background-color:					pink;
 	
