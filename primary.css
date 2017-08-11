@@ -35,7 +35,7 @@
 {
 	/*grid-area: 							BX01;*/
 	
-	grid-column: 							4/5;
+	grid-column: 							1/2;
 	
 	
 	
@@ -46,7 +46,7 @@
 #BX02
 {
 	/*grid-area: 							BX02;*/
-	grid-column:							3/5;
+	grid-column:							2/3;
 	
 	background-color:					red;
 }
@@ -81,7 +81,7 @@
 	/*grid-area:							BX06;*/
 	grid-column:							3/5;
 	
-	background-color:					mediumpurple;
+	background-color:						mediumpurple;
 	
 
 }
