@@ -46,6 +46,7 @@
 {
 	/*grid-area: 							BX02;*/
 	grid-column: 						2/8;
+	grid-row:							7/8;
 
 	background-color:					red;
 }
@@ -54,6 +55,7 @@
 {
 	/*grid-area:							BX03;*/
 	grid-column:						3/8;
+	grid-row:							5/6;
 
 	
 	background-color:					yellow;
@@ -92,6 +94,7 @@
 {
 	/*grid-area:							BX07;*/
 	grid-column:						7/8;
+	grid-row:							1/2;
 	
 	background-color:					pink;
 	
