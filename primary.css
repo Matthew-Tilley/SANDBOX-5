@@ -103,41 +103,41 @@
 	
 	#BX01
 	{
-		grid-row:							1/7;
+		grid-column:							1/7;
 	}
 	
 	#BX02
 	{
-		grid-row:							2/7;
+		grid-column:							2/7;
 	}
 	
 	
 	#BX03
 	{
-		grid-row:							3/7;
+		grid-column:							3/7;
 	}
 	
 	#BX04
 	{
-		grid-row:							4/7;
+		grid-column:							4/7;
 	}
 	
 	
 	#BX05
 	{
-		grid-row:							5/7;
+		grid-column:							5/7;
 	}
 	
 	
 	#BX06
 	{
-		grid-row:							6/7;
+		grid-column:							6/7;
 	}
 	
 	
 	#BX07
 	{
-		grid-row:							1/7;	
+		grid-column:							1/7;	
 	}
 	
 	
