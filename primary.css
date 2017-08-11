@@ -35,6 +35,9 @@
 {
 	/*grid-area: 							BX01;*/
 	
+	grid-column: 							3/5;
+	
+	
 	
 	background-color:					#303030;
 	color:								white;
