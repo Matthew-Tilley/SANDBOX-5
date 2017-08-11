@@ -103,18 +103,18 @@
 	
 	#BX01
 	{
-		grid-column:							1/8;
+		grid-column:							7/8;
 	}
 	
 	#BX02
 	{
-		grid-column:							2/8;
+		grid-column:							6/8;
 	}
 	
 	
 	#BX03
 	{
-		grid-column:							3/8;
+		grid-column:							5/8;
 	}
 	
 	#BX04
@@ -125,19 +125,19 @@
 	
 	#BX05
 	{
-		grid-column:							5/8;
+		grid-column:							3/8;
 	}
 	
 	
 	#BX06
 	{
-		grid-column:							6/8;
+		grid-column:							2/8;
 	}
 	
 	
 	#BX07
 	{
-		grid-column:							7/8;	
+		grid-column:							1/8;	
 	}
 	
 	
