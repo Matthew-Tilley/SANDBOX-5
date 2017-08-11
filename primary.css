@@ -34,6 +34,7 @@
 #BX01
 {
 	/*grid-area: 							BX01;*/
+	grid-column:						1/8;
 	
 	
 	background-color:					#303030;
@@ -43,6 +44,7 @@
 #BX02
 {
 	/*grid-area: 							BX02;*/
+	grid-column: 						2/8;
 
 	background-color:					red;
 }
@@ -50,6 +52,7 @@
 #BX03
 {
 	/*grid-area:							BX03;*/
+	grid-column:						3/8;
 
 	
 	background-color:					yellow;
@@ -58,6 +61,7 @@
 #BX04
 {
 	/*grid-area:							BX04;*/
+	grid-column:						4/8;
 
 	
 	background-color:					tan;
@@ -66,7 +70,8 @@
 #BX05
 {
 	/*grid-area:							BX05;*/
-
+	grid-column:						5/8;
+	
 	background-color:					aqua;
 	
 
@@ -75,7 +80,7 @@
 #BX06
 {
 	/*grid-area:							BX06;*/
-		
+	grid-column:						6/8;	
 	
 	background-color:						mediumpurple;
 	
@@ -85,7 +90,7 @@
 #BX07
 {
 	/*grid-area:							BX07;*/
-
+	grid-column:						7/8;
 	
 	background-color:					pink;
 	
