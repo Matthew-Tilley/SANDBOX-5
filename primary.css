@@ -10,11 +10,7 @@
 	display:							grid;
 	/*grid-template-columns: 				repeat(3, 1fr);*/
 	grid-gap:							1rem;
-	grid-template-areas:				"BX01 BX02 BX03"
-										".... BX04 ...."
-										".... .... BX05"
-										"BX06 BX06 ...."
-										".... BX07 BX07";
+	
 	
 	padding:							1rem;
 	
@@ -37,9 +33,8 @@
 
 #BX01
 {
-	grid-area: 							BX01;
-	grid-row-start: 					1;
-	grid-row-end: 						4;
+	/*grid-area: 							BX01;*/
+	
 	
 	background-color:					#303030;
 	color:								white;
@@ -47,29 +42,29 @@
 
 #BX02
 {
-	grid-area: 							BX02;
+	/*grid-area: 							BX02;*/
 	
 	background-color:					red;
 }
 
 #BX03
 {
-	grid-area:							BX03;
+	/*grid-area:							BX03;*/
 	
 	background-color:					yellow;
 }
 
 #BX04
 {
-	grid-area:							BX04;
-	grid-column: 						span 2;
+	/*grid-area:							BX04;*/
+	
 	
 	background-color:					tan;
 }
 
 #BX05
 {
-	grid-area:							BX05;
+	/*grid-area:							BX05;*/
 	
 	background-color:					aqua;
 	
@@ -78,7 +73,7 @@
 
 #BX06
 {
-	grid-area:							BX06;
+	/*grid-area:							BX06;*/
 	
 	background-color:					mediumpurple;
 	
@@ -87,7 +82,7 @@
 
 #BX07
 {
-	grid-area:							BX07;
+	/*grid-area:							BX07;*/
 	
 	background-color:					pink;
 	
