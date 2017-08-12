@@ -9,6 +9,7 @@
 {
 	display:							grid;
 	/*grid-template-columns: 				repeat(3, 1fr);*/
+	grid-template-rows: 				repeat(8, 1fr);
 	grid-gap:							1rem;
 	
 	
@@ -34,6 +35,8 @@
 #BX01
 {
 	/*grid-area: 							BX01;*/
+	
+	grid-row:								span 4;
 
 	
 	
