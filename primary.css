@@ -35,7 +35,7 @@
 #BX01
 {
 	/*grid-area: 							BX01;*/
-	grid-row:							1 / span 3;
+	
 	
 	background-color:					#303030;
 	color:								white;
@@ -44,8 +44,7 @@
 #BX02
 {
 	/*grid-area: 							BX02;*/
-	grid-row:							2 / span 3;
-	grid-column:						3;
+	
 	
 	background-color:					red;
 }
@@ -53,8 +52,7 @@
 #BX03
 {
 	/*grid-area:							BX03;*/
-	grid-column: 						2 / span 2;
-	grid-row:							1;
+	
 	
 	background-color:					yellow;
 }
@@ -70,8 +68,7 @@
 #BX05
 {
 	/*grid-area:							BX05;*/
-	grid-row:								3 / span 3;
-	grid-column: 							2;
+
 	
 	
 	background-color: 						skyblue;
@@ -81,8 +78,7 @@
 #BX06
 {
 	/*grid-area:							BX06;*/
-	grid-column:							1 / span 3;
-	grid-row:								6;
+	
 	
 	background-color:						orange;
 	
