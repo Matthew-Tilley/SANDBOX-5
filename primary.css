@@ -8,8 +8,8 @@
 #WRA01
 {
 	display:							grid;
-	/*grid-template-columns: 				repeat(3, 1fr);*/
-	grid-template-rows: 				repeat(11, 1fr);
+	grid-template-columns: 				repeat(3, 1fr);
+	
 	grid-gap:							1rem;
 	
 	
@@ -35,6 +35,8 @@
 #BX01
 {
 	/*grid-area: 							BX01;*/
+	grid-column:						1/3;
+	grid-row:							2;
 	
 
 
@@ -55,7 +57,8 @@
 #BX03
 {
 	/*grid-area:							BX03;*/
-
+	grid-row:							1;
+	grid-column: 						2 / 4;
 	
 	background-color:					yellow;
 }
@@ -64,6 +67,8 @@
 {
 	/*grid-area:							BX04;*/
 	
+	grid-row:							2 / 5;
+	grid-column: 						3;
 
 	
 	background-color:					tan;
@@ -72,7 +77,8 @@
 #BX05
 {
 	/*grid-area:							BX05;*/
-	
+	grid-row: 								5;
+	grid-column:							2/4;
 	
 	background-color: 						skyblue;
 
@@ -81,7 +87,8 @@
 #BX06
 {
 	/*grid-area:							BX06;*/
-	
+	grid-row:								3 / 5;
+	grid-column: 							2;
 	
 	background-color:						orange;
 	
@@ -92,7 +99,8 @@
 #BX07
 {
 	/*grid-area:							BX07;*/
-			
+	grid-row:							3 / 6;
+	grid-column: 						1;
 	
 	background-color:					pink;
 	
