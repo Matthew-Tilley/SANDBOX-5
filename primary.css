@@ -8,7 +8,9 @@
 #WRA01
 {
 	display:							grid;
-	
+	grid-template-columns: 				[col] 25vw  [col] 25vw   [col] 25vw;
+	grid-template-rows: 				[row] 1fr  [row] 3fr  [row] 1fr;
+		
 	
 	grid-gap:							1rem;
 	
@@ -73,7 +75,7 @@
 
 #BX06
 {
-	
+
 	
 	
 	background-color:						orange;
@@ -84,7 +86,7 @@
 
 #BX07
 {
-	
+
 	
 	background-color:					pink;
 	
