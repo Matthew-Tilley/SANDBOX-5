@@ -8,7 +8,7 @@
 #WRA01
 {
 	display:							grid;
-	grid-template-columns: 				repeat(3, 1fr);
+	grid-template-columns: 				[col1-start] 1fr  [col2-start] 2fr  [col3-start] 1fr  [col3-end];
 	
 	grid-gap:							1rem;
 	
