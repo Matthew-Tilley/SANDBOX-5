@@ -9,6 +9,7 @@
 {
 	display:							grid;
 	grid-template-columns: 				[col1-start] 1fr  [col2-start] 2fr  [col3-start] 1fr  [col3-end];
+	grid-template-rows:					[row1-start] 3fr  [row2-start] 1fr  [row3-start] 2fr  [row3-end];
 	
 	grid-gap:							1rem;
 	
