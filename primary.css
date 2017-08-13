@@ -34,9 +34,7 @@
 
 #BX01
 {
-	/*grid-area: 							BX01;*/
-	grid-column: 						1 / span 3;
-	grid-row:							2;
+	
 	
 	background-color:					#303030;
 	color:								white;
@@ -44,7 +42,7 @@
 
 #BX02
 {
-	/*grid-area: 							BX02;*/
+	
 	
 	
 	background-color:					red;
@@ -52,7 +50,7 @@
 
 #BX03
 {
-	/*grid-area:							BX03;*/
+	
 	
 	
 	background-color:					yellow;
@@ -60,7 +58,7 @@
 
 #BX04
 {
-	/*grid-area:							BX04;*/
+	
 
 	
 	background-color:					tan;
@@ -68,18 +66,15 @@
 
 #BX05
 {
-	/*grid-area:							BX05;*/
-	grid-row:								2 / span 3;
-	grid-column: 							1;
+
 	background-color: 						skyblue;
 
 }
 
 #BX06
 {
-	/*grid-area:							BX06;*/
-	grid-column:							2 / span 2;
-	grid-row:								3;
+	
+	
 	
 	background-color:						orange;
 	
@@ -89,10 +84,7 @@
 
 #BX07
 {
-	/*grid-area:							BX07;*/
-	grid-row:							2 / span 2;
-	grid-column:						3;
-	z-index:							7;
+	
 	
 	background-color:					pink;
 	
